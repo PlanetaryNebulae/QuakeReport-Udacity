@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#2B3D4D</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#23303D</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Color for an earthquake of magnitude 0 to 2. -->
+    <color name="magnitude1">#4a7ba7</color>
+
+    <!-- Color for an earthquake of magnitude 2 to 3. -->
+    <color name="magnitude2">#04b4b3</color>
+
+    <!-- Color for an earthquake of magnitude 3 to 4. -->
+    <color name="magnitude3">#10cac9</color>
+
+    <!-- Color for an earthquake of magnitude 4 to 5. -->
+    <color name="magnitude4">#f5a623</color>
+
+    <!-- Color for an earthquake of magnitude 5 to 6. -->
+    <color name="magnitude5">#ff7d50</color>
+
+    <!-- Color for an earthquake of magnitude 6 to 7. -->
+    <color name="magnitude6">#fc6644</color>
+
+    <!-- Color for an earthquake of magnitude 7 to 8. -->
+    <color name="magnitude7">#e75f40</color>
+
+    <!-- Color for an earthquake of magnitude 8 to 9. -->
+    <color name="magnitude8">#e13a20</color>
+
+    <!-- Color for an earthquake of magnitude 9 to 10 -->
+    <color name="magnitude9">#d93218</color>
+
+    <!-- Color for an earthquake of magnitude 10 or higher -->
+    <color name="magnitude10plus">#c03823</color>
+
+    <!-- Text color for earthquake details. -->
+    <color name="textColorEarthquakeDetails">#b4bac0</color>
+
+    <!-- Text color for earthquake location. -->
+    <color name="textColorEarthquakeLocation">#2b3d4d</color>
+</resources>
